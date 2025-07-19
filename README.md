@@ -5,9 +5,9 @@
 # Hi, I’m Lyubomir 👋
 
 - 🎓 Studying [Software Engineering](https://softuni.bg/curriculum) at **SoftUni**  
-- 🐍 **Python** enthusiast — I’ve completed most of the backend track  
+- 🐍 Passionate about **Python** and backend development
 - 💻 Currently diving into [Python Web](https://softuni.bg/modules/139/python-web/1541) with **Django**  
-- 🚀 Always on the lookout for cool side-projects and new tech  
+- 🚀 Always ready to dive into new projects  
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
@@ -30,5 +30,5 @@
 
 <details>
   <summary>⚡️ Fun Fact</summary>
-  I play volleyball! 🎬
+  I play volleyball! 🏐
 </details>
