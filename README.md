@@ -4,7 +4,7 @@
 
 # Hi, I’m Lyubomir 👋
 
-![georgievl](https://via.placeholder.com/900x200.png?text=Software+Engineering+Journey)
+![Profile Banner](https://via.placeholder.com/900x200.png?text=Software+Engineering+Journey)
 
 ## 👨‍🎓 About Me
 - 🎓 **Studying Software Engineering** at **SoftUni**  
