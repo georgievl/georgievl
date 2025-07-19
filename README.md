@@ -2,7 +2,7 @@
   Hi there 👋 Welcome to my GitHub Profile!
 -->
 
-# Hi, I’m [Lyubomir] 👋
+# Hi, I’m Lyubomir 👋
 
 ![georgievl](https://via.placeholder.com/900x200.png?text=Software+Engineering+Journey)
 
