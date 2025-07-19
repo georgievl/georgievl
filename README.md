@@ -25,8 +25,8 @@
 
 ## 📊 GitHub Stats
 
-![Lyubomir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgievl&show_icons=true&theme=radical)
-
+![Lyubomir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgievl&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=georgievl&layout=compact&theme=default)
 ---
 
 <details>
