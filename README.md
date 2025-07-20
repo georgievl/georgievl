@@ -7,7 +7,7 @@
 - 🎓 Studying [Software Engineering](https://softuni.bg/curriculum) at **SoftUni**  
 - 🐍 Passionate about **Python** and backend development
 - 💻 Currently diving into [Python Web](https://softuni.bg/modules/139/python-web/1541) with **Django**  
-- 🚀 Always ready to dive into new projects  
+- 🚀 Always ready to participate in new projects  
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
