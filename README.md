@@ -30,5 +30,5 @@
 
 <details>
   <summary>⚡️ Fun Fact</summary>
-  I play volleyball! 🏐
+  I play volleyball 🏐
 </details>
